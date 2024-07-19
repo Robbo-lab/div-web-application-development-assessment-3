@@ -1,4 +1,3 @@
-```markdown
 # One Ring Rentals Web Application Assessment
 
 ## Assessment Description
@@ -20,10 +19,8 @@ Your web-based program is expected to:
 
 1. **Clone Repository**: Use the "One Ring Rentals" prototype from "Assessment 2: Project – Build web page using components" available on GitHub.
 
-    ```bash
     git clone <repository_url>
     cd <repository_name>
-    ```
 
 2. **Framework and Conversion**: Construct the application using the Next.js React framework. Utilise components from "Assessment 2" and convert them to Next.js framework.
 
@@ -39,7 +36,6 @@ Your web-based program is expected to:
 
 - Make sure to follow GitHub Classroom instructions provided by your Lecturer.
 - Document your progress and include necessary screenshots in your submission.
-```
 
 ### GitHub Commands for Classroom
 
@@ -47,16 +43,13 @@ Your Lecturer may have set up a GitHub Classroom repository. Here are some examp
 
 - **Clone the Repository**: Replace `<repository_url>` with the actual URL provided by GitHub Classroom.
 
-    ```bash
     git clone <repository_url>
     cd <repository_name>
-    ```
     
-    ```bash
     git add .
     git commit -m "Completed Assessment updates"
     git push origin main
-    ```
+
 
 - **Commit and Push Changes**:
 
