@@ -39,7 +39,8 @@ Your web-based program is expected to:
 ### Additional Notes
 
 - Make sure to follow GitHub Classroom instructions provided by your instructor.
-- Document your progress and include necessary screenshots in your submission.
+- Document your progress and include necessary screenshots in your evidence folder.
+- once complete download, zip and submit your completed code to the blackboard submission area
 
 ## GitHub Commands for Classroom
 
